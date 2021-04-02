@@ -216,7 +216,7 @@ text-align:center;
   header {
     width: 320px;
     margin:0 auto;
-    height: 125px;
+    height: 110px;
     background: white;
     padding: 0px 0px;
     }
@@ -225,7 +225,7 @@ text-align:center;
   line-height: 0px;
 }
     .header-logo p {
-      padding-top: 50px;
+      padding-top: 45px;
       line-height: 0px;
       font-size: 21px;
       letter-spacing: 0.25px;
@@ -243,11 +243,11 @@ text-align:center;
       }
 
     .header-list {
-      padding-top:12px;
+      padding-top:16.5px;
       padding-bottom:50px;
       margin-left: auto;
       margin-right: auto;
-      padding-left: 16px;
+      padding-left: 17px;
     }
 
     .contact, .biography, .work {
