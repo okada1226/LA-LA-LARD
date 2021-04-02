@@ -279,7 +279,8 @@ text-align:center;
       text-align: justify;
       text-justify: inter-ideograph;
       line-height:24px;
-      font-family:"Roboto-normal", "YuGothic"
+      font-family:"Roboto", "YuGothic";
+      font-weight:300;
 
     }
     br{
