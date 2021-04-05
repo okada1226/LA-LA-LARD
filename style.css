@@ -81,6 +81,14 @@ text-align:center;
   width:1475px;
 }
 
+.image2 {
+text-align:center;
+padding-top: 20px;
+}
+.image2 img {
+  width:1475px;
+}
+
 .br-sp {
   display: none;
 }
@@ -274,7 +282,7 @@ text-align:center;
       width:100%;
     }
     .sakuhin-text {
-      padding-top:27px;
+      padding-top:30px;
       width:320px;
     }
 
@@ -287,11 +295,11 @@ text-align:center;
 
 
   .detail {
-      margin-top:8px;
+      margin-top:12.5px;
       margin-bottom: :20px;
       text-align: justify;
       text-justify: inter-ideograph;
-      line-height:23px;
+      line-height:25px;
 
     }
     .br-pc {
