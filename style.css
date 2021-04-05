@@ -81,20 +81,13 @@ text-align:center;
   width:1475px;
 }
 
-.image2 {
-text-align:center;
-padding-top: 20px;
-}
-.image2 img {
-  width:1475px;
-}
-
 .br-sp {
   display: none;
 }
 
 
 .sakuhin-text {
+  font-family: 'Roboto', "YuGothic-light";
   padding-top:31px;
   margin:0 auto;
   width:1475px;
@@ -106,18 +99,13 @@ padding-top: 20px;
   line-height: 0px;
   font-weight: 400;
   margin:0;
-  font-family: 'Roboto-bolder', "YuGothic-bolder";
-
 }
 
 .detail {
-  padding-top: 3px;
+  padding-top: 8px;
   font-size:14.5px;
-  line-height: 24.5px;
+  line-height: 12px;
   font-weight: 300;
-  font-family: 'Roboto-lighter', "YuGothic-lighter";
-  letter-spacing: 1px;
-
 }
 
 
@@ -282,7 +270,7 @@ padding-top: 20px;
       width:100%;
     }
     .sakuhin-text {
-      padding-top:30px;
+      padding-top:27px;
       width:320px;
     }
 
@@ -295,11 +283,11 @@ padding-top: 20px;
 
 
   .detail {
-      margin-top:12.5px;
+      margin-top:8px;
       margin-bottom: :20px;
       text-align: justify;
       text-justify: inter-ideograph;
-      line-height:25px;
+      line-height:23px;
 
     }
     .br-pc {
