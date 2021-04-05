@@ -291,6 +291,8 @@ padding-top: 20px;
       margin-bottom: 0;
       padding-bottom: 0;
       line-height: 0px;
+      font-family: 'Roboto-bolder', "YuGothic-bolder";
+
     }
 
 
@@ -300,6 +302,8 @@ padding-top: 20px;
       text-align: justify;
       text-justify: inter-ideograph;
       line-height:25px;
+      font-family: 'Roboto-lighter', "YuGothic-lighter";
+      letter-spacing: 1px;
 
     }
     .br-pc {
